@@ -5,7 +5,7 @@ Thank you for reviewing our project! Early detection and prevention will be of u
 This repository contains 3 folders:
 
 - Data: the data contains two types: Climate data from National Oceanic and Atmospheric Administration (NOAA)  and  fire occurrence data from NASA Fire Information for Resource Management System (FIRMS)
-- Code: the code contains three parts: [01_Data Cleaning_Temp and Prep](./Final Code/01_Data Cleaning_Temp and Prep.R); [01_Data Cleaning_Wildfire Precedents](./Final Code/01_Data Cleaning_Wildfire Precedents.R); [02_Modeling](./Final Code/02_Modeling.R)
+- Code: the code contains three parts: 01_Data Cleaning_Temp and Prep.R; 01_Data Cleaning_Wildfire Precedents.R; 02_Modeling.R
 - Output: only includes the clustering result in a csv file.
 
 
